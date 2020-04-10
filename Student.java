@@ -33,3 +33,6 @@ class Student {
         }
         
 }
+class Course{
+List<Student> students = new ArrayList<Student>();
+}
